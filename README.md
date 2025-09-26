@@ -8,6 +8,10 @@ Automated Clicking
 Runnable fat-jar with all dependencies included 
 Easy to build from source with Ant 
 
+//Two Clicking modes: 
+Super mode for high clicks per second 
+Human mode for human-like randomness
+
 ##Dependencies 
 java 8 or higher
 Netbeans(for building from source) 
