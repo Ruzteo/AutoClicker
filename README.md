@@ -8,7 +8,7 @@ Automated Clicking
 Runnable fat-jar with all dependencies included 
 Easy to build from source with Ant 
 
-//Two Clicking modes: 
+### Two Clicking modes: 
 Super mode for high clicks per second 
 Human mode for human-like randomness
 
