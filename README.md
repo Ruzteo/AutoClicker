@@ -9,14 +9,14 @@ Runnable fat-jar with all dependencies included
 Easy to build from source with Ant 
 
 ### Two Clicking modes: 
-Super mode for high clicks per second 
+Super mode for high clicks per second //
 Human mode for human-like randomness
 
 ## Dependencies: 
-java 8 or higher
-Netbeans(for building from source) 
+java 8 or higher,
+Netbeans(for building from source), 
 JNativehook(not needed for the fat-jar)
 
 ## How to run fat-jar:  
-Download the fat-jar from the releases tab 
-Double click on it or use command promt
+Download the fat-jar from the releases tab then 
+Double click on it // use command promt
