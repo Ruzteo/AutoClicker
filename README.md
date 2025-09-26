@@ -1,7 +1,7 @@
-##Autoclicker: 
+## Autoclicker: 
 This project is a Java application for fast and automated clicking. This project contains all the sourcecode with a download and run fat-jar for ease of use. 
 
-##Features: 
+## Features: 
 Very fast clicking ability 
 Dynamic CPS changing 
 Automated Clicking 
@@ -12,11 +12,11 @@ Easy to build from source with Ant
 Super mode for high clicks per second 
 Human mode for human-like randomness
 
-##Dependencies: 
+## Dependencies: 
 java 8 or higher
 Netbeans(for building from source) 
 JNativehook(not needed for the fat-jar)
 
-##How to run fat-jar:  
+## How to run fat-jar:  
 Download the fat-jar from the releases tab 
 Double click on it or use command promt
